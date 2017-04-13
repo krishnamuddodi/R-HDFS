@@ -1,7 +1,5 @@
 rm(list=ls())
 
-#Team: Random R
-#Date: 11/28/2016
 #Proj: R and Hadoop
 
 ############################ Environment Setup #########################################
